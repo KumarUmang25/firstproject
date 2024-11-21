@@ -1,0 +1,135 @@
+*{  
+    margin:0;
+    padding:0;
+    border:border-box;
+    color:white;
+    text-decoration: none;
+}
+.navbar{
+    height:80px;
+    width:100%;
+    background-color: #0f1111;
+    display:flex;
+    align-items: center;   
+}
+.logo{
+  height:60px;
+  width:140px;
+  background-image: url("amazon_logo.png");
+  background-size: cover;
+  position:absolute;
+  left:30px;
+  top:8px;
+}
+.location{
+    color:white;
+    height:60px;
+    width:140px;
+    position:absolute;
+    left:300px;
+}
+.locate{
+    color:white;
+    position:absolute;
+    top:35px;
+}
+#country{
+    position:absolute;
+    left:15px;
+    top:35px;
+}
+#del{
+    position:absolute;
+    top:10px;
+}
+.search{
+    height:60px;
+    width:590px;
+    position: absolute;
+    left:400px;
+}
+#cat{
+    height:40px;
+    width:50px;
+    position:absolute;
+    top:13px;
+    background-color: rgb(232, 221, 221);
+    border-radius:4px;
+    border-bottom-right-radius:0;
+    color: black;
+}
+.searchbar{
+    position:absolute;
+    top:13px;
+    border-radius: 4px;
+    left:50px;
+    height:38px;
+    width:80%;
+    border-bottom-left-radius:0;
+}
+.glass{
+    position: absolute;
+    right: 25px;;
+    top:13.7px;
+    height:41px;
+    width:40px;
+    background-color:orange;
+}
+.acc{
+    position: absolute;
+    right:400px;
+    top:29px;
+}
+#hello{
+    font-size:12px;
+}
+.ret{
+    position: absolute;
+    right:270px;
+    top:29px;
+}
+#returns{
+    font-size:12px;
+}
+#cart{
+    background-color: black;
+    position: absolute;
+    right:180px;
+    top:38px;
+}
+#t{
+    position:absolute;
+    left:30px;
+    top:0px;
+}
+.nav{
+    background-color: #222f3d;
+    height:34px;
+    width:100%;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#bars{
+    position:absolute;
+    left:50px;
+    top:89px;
+}
+#all{
+    position:absolute;
+    top:88px;
+    left:67px;
+}
+.deal p{
+    display: inline-block;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+.deal{
+    width:80%;
+}
+.hero{
+    height:623px;
+    background-image: url("hero_image.jpg");
+    background-size: cover;
+}
