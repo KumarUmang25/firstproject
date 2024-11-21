@@ -129,7 +129,24 @@
     width:80%;
 }
 .hero{
-    height:623px;
+    height:300px;
     background-image: url("hero_image.jpg");
     background-size: cover;
+}
+.heromsg{
+    height:30px;
+    width:95%;
+    background-color: white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top:360px;
+    left:40px;
+}
+#msg{
+    color:black;
+}
+.in{
+    color:blue;
 }
