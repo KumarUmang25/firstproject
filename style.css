@@ -150,3 +150,132 @@
 .in{
     color:blue;
 }
+.add{
+  height:100%;
+  width:100%;
+  display:flex;
+  justify-content: space-evenly;
+  position: absolute;
+  top:410px;
+  background-color: rgb(179, 241, 220);
+}
+.box1{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box1_image.jpg");
+    background-size:cover ;
+    
+}
+.box2{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box2_image.jpg");
+    background-size:cover ;
+}
+.box3{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:20px solid white;
+    border-left:20px solid white;
+    background-image: url("box3_image.jpg");
+    background-size:cover ;
+}
+.box4{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box4_image.jpg");
+    background-size:cover ;
+}
+.add1{
+    height:100%;
+    width:100%;
+    display:flex;
+    justify-content: space-evenly;
+    position: absolute;
+    background-color: rgb(179, 241, 220);
+    top:850px;
+ }
+.box5{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box5_image.jpg");
+    background-size:cover ;
+}
+.box6{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box6_image.jpg");
+    background-size:cover ;
+}
+.box7{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:20px solid white;
+    border-left:20px solid white;
+    background-image: url("box7_image.jpg");
+    background-size:cover ;
+}
+.box8{
+    height:300px;
+    width:320px;
+    position:relative;
+    left:0px;
+    top:20px;
+    border: 60px solid white;
+    border-right:10px solid white;
+    border-left:10px solid white;
+    background-image: url("box8_image.jpg");
+    background-size:cover ;
+}
+footer{
+    margin-top: 15px;
+}
+.panelone{
+    height:50px;
+    width:100%;
+    background-color: #37475a;
+    color:white;
+    position: absolute;
+    top:1300px;
+    display: flex ;
+    justify-content: center;
+    align-items: center;
+}
